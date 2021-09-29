@@ -1,4 +1,4 @@
-This folder contains data presented in Fraser and Cunningham (2021) submitted to GRL.
+This folder contains data presented in Fraser and Cunningham (2021) GRL.
 
 Contents:
 
